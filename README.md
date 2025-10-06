@@ -31,7 +31,4 @@ Le concept est simple :
 - **JavaScript** – logique du jeu et timer  
 
 ---
-## Comment jouer ?
-
-**Cliquer sur le lien suivant** :
----
+## Cliquer ici pour accéder au jeu en ligne ! :

@@ -31,4 +31,4 @@ Le concept est simple :
 - **JavaScript** – logique du jeu et timer  
 
 ---
-## Cliquer ici pour accéder au jeu en ligne ! :
+## Cliquer ici pour accéder au jeu en ligne  : https://aim-lab-lake.vercel.app/
